@@ -5,7 +5,7 @@
 This project has been developed as part of the Data Science module, of the Computational Management of Data integrated course, taught by professor Silvio Peroni. Its team - Fsociety - is composed of Anastasiya Sopyryaeva, Seif Eddine Rayes, Francesca Budel and Victor Chaix, students of the Digital Humanities and Digital Knowlewdge (DHDK) Master degree program of the Università di Bologna. This is our attempt of developing the required software for data processing and querying purposes. 
 
 ### 1) Goal of the software and its corresponding data model
-The goal of the software is to be able to process and query two types of databases simultaneously : a relational and a graph database.
+The goal of the project is to develop a software that enables one to process data stored in different formats and to upload them into two distinct databases to query these databases simultaneously according to predefined operations.
 
 The data model on which the general organization of our software is based on can be represented and defined as follows:
 
